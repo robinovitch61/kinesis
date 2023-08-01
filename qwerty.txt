@@ -1,0 +1,31 @@
+* default mac mappings
+[scroll]>[shutdn]
+[lctrl]>[delete]
+[rwin]>[rctrl]
+[rctrl]>[rwin]
+[kp-lctrl]>[lwin]
+[kp-rwin]>[rctrl]
+[kp-rctrl]>[rwin]
+
+* thumb del to cmd
+[delete]>[lwin]
+
+* tap caps for esc, hold for left ctrl
+[caps]>[escape][t&h50][lctrl]
+
+* match hjkl vim conventions
+[up]>[down]
+[down]>[up]
+[kp-up]>[kp-down]
+[kp-down]>[kp-up]
+
+* alt to end
+[lalt]>[end]
+[end]>[lalt]
+
+* page down to lctrl
+[pdown]>[lctrl]
+
+* page up to tab
+[pup]>[tab]
+
