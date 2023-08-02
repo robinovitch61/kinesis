@@ -1,11 +1,13 @@
 * default mac mappings
 [scroll]>[shutdn]
-[lctrl]>[delete]
 [rwin]>[rctrl]
 [rctrl]>[rwin]
 [kp-lctrl]>[lwin]
 [kp-rwin]>[rctrl]
 [kp-rctrl]>[rwin]
+
+* lctrl to delete
+[lctrl]>[delete]
 
 * thumb del to cmd
 [delete]>[lwin]
