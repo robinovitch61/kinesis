@@ -6,7 +6,7 @@
 
 * left thumb cluster (win = cmd)
 [delete]>[lwin]
-*[lctrl]>[delete]
+[lctrl]>[delete]
 [caps]>[escape][t&h100][lctrl]
 [end]>[lctrl]
 [home]>[tab]
@@ -24,4 +24,4 @@
 [kp-down]>[kp-up]
 
 * iterm2 summon
-{INTL-\}>{-lalt}{space}{+lalt}
+{intl-\}>{-lalt}{space}{+lalt}
