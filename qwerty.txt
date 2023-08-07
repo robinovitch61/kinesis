@@ -1,19 +1,21 @@
 * default mac mappings
 [scroll]>[shutdn]
-[rwin]>[rctrl]
-[rctrl]>[rwin]
 [kp-lctrl]>[lwin]
 [kp-rwin]>[rctrl]
 [kp-rctrl]>[rwin]
 
-* lctrl to delete
-[lctrl]>[delete]
-
-* thumb del to cmd
+* left thumb cluster (win = cmd)
 [delete]>[lwin]
+[lctrl]>[delete]
+[caps]>[escape][t&h100][lctrl]
+[end]>[lctrl]
+[home]>[tab]
 
-* tap caps for esc, hold for left ctrl
-[caps]>[escape][t&h50][lctrl]
+* right cluster (win = cmd)
+[rctrl]>[rwin]
+[rwin]>[rctrl]
+[pup]>[tab]
+[pdown]>[lalt]
 
 * match hjkl vim conventions
 [up]>[down]
@@ -21,13 +23,5 @@
 [kp-up]>[kp-down]
 [kp-down]>[kp-up]
 
-* alt to end
-[lalt]>[end]
-[end]>[lalt]
-
-* page down to lctrl
-[pdown]>[lctrl]
-
-* page up to tab
-[pup]>[tab]
-
+* iterm2 summon
+{lctrl}>{-lalt}{space}{+lalt}
