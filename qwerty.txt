@@ -26,7 +26,8 @@
 {intl-\}>{-lalt}{space}{+lalt}
 
 * NOTE: from reddit
-* as a result, using karabiner-elements complex mods instead of this for now
+* as a result, using karabiner-elements complex mod instead of this for now
+* also using "hold space for lctrl" in karabiner-elements
 *[caps]>[escape][t&h150][lctrl]
 
 *Tap & hold in SmartSet firmware is not very useful. The reason is that the hold behavior will only trigger once the timeout elapses. If you are a quick typer, then this get annoying pretty quickly. E.g. QMK solves this by making it possible to interrupt the timeout by pressing another key. So in your example it'd have the following behavior:
